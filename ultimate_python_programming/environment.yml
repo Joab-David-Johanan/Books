@@ -1,0 +1,7 @@
+name: C:\Coding\Books\venv
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - ipykernel
+prefix: C:\Coding\Books\venv
