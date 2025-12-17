@@ -1,3 +1,5 @@
 # ignore virtual environment
 /ml_env
 
+# ignore code-workspace
+ML.code-workspace
